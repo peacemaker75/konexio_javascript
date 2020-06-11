@@ -5,4 +5,4 @@ function resultPow(num,power){
       console.log(num**power);
     }
   }
-  resultPow(3,3);
+  resultPow(3,-8);

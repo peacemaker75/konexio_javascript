@@ -8,4 +8,5 @@ function letterCapitalize(sentence) {
     return sentence.join(" ");
 }
 
-console.log(letterCapitalize("Vélo 1 de 2 faire 3"));
+console.log(letterCapitalize("welcome to paris est magique"));
+
