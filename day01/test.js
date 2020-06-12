@@ -1,15 +1,14 @@
-var arr = [];
-
-for (var i = 0; i < 10; i++) {
-    Array.push(i);
-    console.log(arr);
+function simpleAdding(num) {
+    // console.log(num);
+    var result = 0;
+    var i = 1;
+    while (i <= num) {
+        // console.log(i);
+        result = result + i;
+        i++;
+    }
+    // console.log(result);
+    return result;
 }
 
-console.log(arr);
-
-var arr2 = [];
-var limit = 10;
-var j = 0;
-while(j; limit) {
-    arr2.push(j);
-}
+console.log(simpleAdding(4));

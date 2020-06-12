@@ -8,4 +8,4 @@ function squareRoot(num){
     return 0;
   }
   console.log(squareRoot(13));
-  console.log(squareRoot(81));
+  console.log(squareRoot(36));
