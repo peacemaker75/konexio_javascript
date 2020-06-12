@@ -9,3 +9,4 @@ function squareRoot(num){
   }
   console.log(squareRoot(13));
   console.log(squareRoot(36));
+  console.log(squareRoot(81));

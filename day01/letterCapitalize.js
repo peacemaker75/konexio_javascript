@@ -9,4 +9,3 @@ function letterCapitalize(sentence) {
 }
 
 console.log(letterCapitalize("welcome to paris est magique"));
-
