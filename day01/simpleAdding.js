@@ -1,4 +1,4 @@
-console.log("CA ME REND OUUUUUFF");
+console.log("Et le resultat est :");
 function simpleAdding(num) {
 var result = 0;
     for (i = 1; i <= num; i++) {
@@ -6,4 +6,4 @@ var result = 0;
     }
     return result; 
 }
-console.log(simpleAdding(12));
+console.log(simpleAdding(10));
