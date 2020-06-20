@@ -15,7 +15,7 @@ function timeConvert(num) {
     if (nbMinute >0)
         result = result+nbMinute+':';
     if (nbSecond >0)
-        result = result+nbSecond+':';
+        result = result+nbSecond+'';
     
     return result;
 

@@ -7,4 +7,4 @@ function isEven(num) {
     }
 }
 
-isEven(17)
+isEven(7)
