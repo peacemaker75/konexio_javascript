@@ -1,4 +1,4 @@
-function simpleAdding(num) {
+function firstFactorial(num) {
     var result = num;
         for (i = num-1; i > 0; i--) {
             result = result * i; 

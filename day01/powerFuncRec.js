@@ -1,8 +1,8 @@
-function resultPow(num,power){
+function powerFuncRec(num,power){
     if(power===1){
       return num;
     }else{
-      console.log(num**power);
+      return num**power;
     }
   }
-  resultPow(3,-8);
+  console.log(powerFuncRec(3,-8));

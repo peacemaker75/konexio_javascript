@@ -1,10 +1,8 @@
 function isEven(num) {
-    if (num%2 === 0 )
-    {
-        console.log(true);
+    if (num%2 === 0 ) {
+        return true;
     } else {
-        console.log(false);
+        return false;
     }
 }
-
-isEven(7)
+console.log(isEven(7));
