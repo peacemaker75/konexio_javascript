@@ -1,5 +1,3 @@
-
-
 function swap(var1, var2) {
     var var3 = var1;
     var var1 = var2;
